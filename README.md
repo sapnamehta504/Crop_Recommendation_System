@@ -11,7 +11,7 @@ This system takes input parameters such as nitrogen, phosphorus, potassium level
 ## 🚀 Live Demo
 
 🔗 **Deployed Link (Render):**
-[Click Here to Use the App](PASTE_YOUR_RENDER_LINK_HERE)
+[Click Here to Use the website]((https://crop-recommendation-1-pv6p.onrender.com/))
 
 ---
 
@@ -53,57 +53,6 @@ The system uses the following inputs:
 * Backend: Python, Flask
 * Machine Learning: Scikit-learn, Pandas, NumPy
 * Deployment: Render
-
----
-
-## 📂 Project Structure
-
-```
-Crop_Recommendation_System/
-│
-├── app.py
-├── model.pkl
-├── requirements.txt
-├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
-└── README.md
-```
-
----
-
-## ⚙️ Installation & Setup
-
-### Step 1: Clone the Repository
-
-```
-git clone https://github.com/your-username/Crop_Recommendation_System.git
-```
-
-### Step 2: Navigate to Project Folder
-
-```
-cd Crop_Recommendation_System
-```
-
-### Step 3: Install Dependencies
-
-```
-pip install -r requirements.txt
-```
-
-### Step 4: Run the Application
-
-```
-python app.py
-```
-
-### Step 5: Open in Browser
-
-```
-https://github.com/chandani004/crop-recommendation
-```
 
 ---
 

@@ -11,7 +11,7 @@ This system takes input parameters such as nitrogen, phosphorus, potassium level
 ## 🚀 Live Demo
 
 🔗 **Deployed Link (Render):**
-[Click Here to Use the website]((https://crop-recommendation-1-pv6p.onrender.com/))
+🔗 [Click Here to Use the website](https://crop-recommendation-1-pv6p.onrender.com/)
 
 ---
 

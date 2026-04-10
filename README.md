@@ -15,6 +15,12 @@ This system takes input parameters such as nitrogen, phosphorus, potassium level
 
 ---
 
+## 🎥 Demo GIF
+
+![App Demo](static/ezgif.com-optimize.gif)
+
+---
+
 ## 🎯 Features
 
 * Predicts best crop based on soil nutrients
@@ -53,15 +59,6 @@ The system uses the following inputs:
 * Backend: Python, Flask
 * Machine Learning: Scikit-learn, Pandas, NumPy
 * Deployment: Render
-
----
-
-## 💡 Future Improvements
-
-* Add more crop varieties
-* Improve UI/UX design
-* Integrate weather API
-* Mobile app version
 
 ---
 
